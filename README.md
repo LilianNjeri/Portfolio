@@ -6,7 +6,7 @@
 This is a portfolio site consisting of projects I've been working on.
 
 ## Github links
-https://github.com/LilianNjeri/Portfolio
+https://liliannjeri.github.io/Portfolio/
 
 ### License
 MIT License
